@@ -1,0 +1,13 @@
+[
+
+  {"id":"p1","name":"Virat Kohli","role":"BAT","team":"India","rating":95,"rarity":"legend","stats":{"runs":12345,"avg":58.2,"sr":92.5,"matches":254},"photo":"p1.png"},
+  {"id":"p2","name":"Jasprit Bumrah","role":"BOWL","team":"India","rating":92,"rarity":"legend","stats":{"wickets":128,"avg":22.1,"eco":4.6,"matches":72},"photo":"p2.png"},
+  {"id":"p3","name":"Rohit Sharma","role":"BAT","team":"India","rating":89,"rarity":"epic","stats":{"runs":9200,"avg":49.2,"sr":88.9,"matches":243},"photo":"p3.png"},
+  {"id":"p4","name":"Ravindra Jadeja","role":"AR","team":"India","rating":87,"rarity":"epic","stats":{"runs":2500,"wickets":220,"avg":35.2,"matches":168},"photo":"p4.png"},
+  {"id":"p5","name":"KL Rahul","role":"BAT","team":"India","rating":84,"rarity":"rare","stats":{"runs":2000,"avg":45.5,"sr":85.2,"matches":72},"photo":"p5.png"},
+  {"id":"p6","name":"Babar Azam","role":"BAT","team":"Pakistan","rating":91,"rarity":"legend","stats":{"runs":3480,"avg":56.1,"sr":89.2,"matches":92},"photo":"p6.png"},
+  {"id":"p7","name":"Shaheen Afridi","role":"BOWL","team":"Pakistan","rating":88,"rarity":"epic","stats":{"wickets":76,"avg":24.1,"eco":4.8,"matches":36},"photo":"p7.png"},
+  {"id":"p8","name":"Mohammad Rizwan","role":"WK","team":"Pakistan","rating":85,"rarity":"epic","stats":{"runs":1200,"catches":28,"stumpings":8,"matches":59},"photo":"p8.png"},
+  {"id":"p9","name":"Steve Smith","role":"BAT","team":"Australia","rating":93,"rarity":"legend","stats":{"runs":4800,"avg":60.0,"sr":85.2,"matches":142},"photo":"p9.png"},
+  {"id":"p10","name":"Pat Cummins","role":"BOWL","team":"Australia","rating":90,"rarity":"epic","stats":{"wickets":190,"avg":22.5,"eco":4.9,"matches":85},"photo":"p10.png"}
+]
